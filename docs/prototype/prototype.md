@@ -4,13 +4,14 @@ sidebar_position: 1
 
 # Prototype
 
-### Current Prototypes
+### Current Prototype
 
-We currently have paper and cardboard prototypes
+We started with paper and cardboard prototypes
 
 ![Prototype 1](@site/static/img/prototype1.PNG)
 
-### Further Prototyping
+### Current Prototype
 
-To create further prototypes will make a functional protype using a sturdy face mask with a phone attacked to the front.
-The phone emulate the translator and the voice enhancer.
+Now we have 3D models, better reflecting the future product
+
+![Prototype 2](@site/static/img/prototype-2.PNG)

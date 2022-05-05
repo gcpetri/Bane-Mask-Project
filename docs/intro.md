@@ -39,6 +39,10 @@ Seperately, travelers to foreign countries often only choose to visit a place wh
 **Miltary Moves**
 The US miltary is stationed around the world, numerous countries for which the soldiers station know not the langauge. Moreover, the miliary does not have an advanced face protection armor.
 
+## Final Project Video
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/53rWUlkaYPA&t/0.jpg)](http://www.youtube.com/watch?v=53rWUlkaYPA&t "Video")
+
 ## What we'll do
 
 Keep reading to docs to discover our solution... the Bane Mask
